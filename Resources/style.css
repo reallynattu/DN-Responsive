@@ -1,0 +1,107 @@
+body {
+	width:100%;
+}
+
+#Header {
+	width:100%;
+}
+
+#Header #Navigation .Content {
+	width:100%;
+}
+
+.RegisterLink {
+	display:none;
+}
+
+#Header #Account {
+	width: 100%;
+}
+
+#Header #Account form {
+	width: 100%;
+	height:70px;
+}
+
+#NavigationLinks,.Content {
+	width:100%;
+}
+
+#Header #Account form input {
+	width:33%;
+	float:left;
+	margin: 0 5px 0 0;
+}
+
+#Header #Navigation .Content #NavigationLinks a {
+	font-size:9pt;
+}
+#Header #Navigation .Content #NavigationLinks a.JobsButton {
+	margin-left: 9px;
+}
+#Header #Navigation .Content #NavigationLinks a.SubmitStoryButton {
+	margin-left: 4px;
+}
+
+#Header #Navigation .Content #NavigationLinks a {
+	margin: 0 0 0 6px;
+}
+
+#Header #Navigation .Content #NavigationLinks a:first-child {
+	margin-left: 15px;
+}
+
+
+#Header #Navigation .Content #NavigationLinks {
+	width: 100%;
+}
+
+
+.Frontpage .InnerPage, #MOTD, .Newest .InnerPage, .Notifications .InnerPage, .Story .InnerPage, .Comment .InnerPage, .Jobs .Pagination, .Jobs .InnerPage {
+	width: 100%;
+}
+
+#Header #Account form input.LoginSubmitButton {
+	float: right;
+	width: 72px;
+	text-align: left;
+	margin: 0 0px 0 0;
+}
+
+#Header #Navigation .Content #NavigationLinks .Account {
+	min-width: 50px;
+}
+
+.InnerPage ol li {
+	padding: 15px 31px 15px 70px;
+	margin: -2px;
+}
+
+.InnerPage ol li .Domain {
+	word-wrap:break-word;
+}
+
+.InnerPage .Badge.Apple,.InnerPage .Badge.Flat, .InnerPage .Badge.SiteDesign, .InnerPage .Badge.CSS, .InnerPage .Badge.Ask {
+	background-size: 30px;
+}
+
+.InnerPage ol li .StoryUrl {
+	font-size: 11pt;
+}
+
+.InnerPage {
+	margin:0px auto;
+}
+
+.InnerPage .Badge {
+	background-size: 30px;
+	margin-left: -46px;
+	margin-top: 26px;
+	width: 30px;
+	height: 30px;
+}
+
+#Footer {
+	width:100%;
+}
+

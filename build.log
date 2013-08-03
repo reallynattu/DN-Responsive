@@ -1,0 +1,33 @@
+Logfile initialized
+[DEBUG] /Users/nattu/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.v20130402175640/android/builder.py simulator DN Responsive /Users/nattu/Documents/SDK /Applications/XAMPP/xamppfiles/htdocs/mobileapps/DN Responsive com.semicolon.dnresponsive 5 WXGA800
+[INFO] logfile = /Applications/XAMPP/xamppfiles/htdocs/mobileapps/DN Responsive/build.log
+[DEBUG] /Users/nattu/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.v20130402175640/android/builder.py emulator DN Responsive /Users/nattu/Documents/SDK /Applications/XAMPP/xamppfiles/htdocs/mobileapps/DN Responsive com.semicolon.dnresponsive 5 WXGA800
+[INFO] Building DN Responsive for Android ... one moment
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Users/nattu/Documents/SDK/tools/emulator
+[DEBUG] SDCard: /Users/nattu/.titanium/android2.sdcard
+[DEBUG] AVD ID: 5
+[DEBUG] AVD Skin: WXGA800
+[DEBUG] SDK: /Users/nattu/Documents/SDK
+[INFO] Titanium SDK version: 3.1.0 (04/02/13 17:56 acc19ef)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[INFO] Creating 64M SD card for use in Android emulator
+[INFO] Creating new Android Virtual Device (5 WXGA800 armeabi-v7a)
+[DEBUG] /Users/nattu/Documents/SDK/tools/emulator -avd titanium_5_WXGA800_armeabi-v7a -port 5560 -sdcard /Users/nattu/.titanium/titanium_5_WXGA800_armeabi-v7a.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 65 seconds)
+[DEBUG] waited 71.108159 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
